@@ -1,6 +1,6 @@
 import java.util.Scanner; //input cls
 
-public class JavaBasics {
+public class Basics {
     public static void main(String[] args) {
 
         System.out.println("Hello World ! "); // *ln* gives a space of line
@@ -31,17 +31,17 @@ public class JavaBasics {
         // System.out.println(ch);
         // boolean var = true;
         // System.out.println(var);
-        // float price = (float) 10. 4;
+        // float price = (float) 10.4;
         // int num =23;
-        // //long
-        // //double
+        // long
+        // double
         // short n =230;
         // System.out.println(n);
 
         // input
         // Scanner sc = new Scanner(System.in);
-        // // String input =sc.next ();
-        // // System.out.println(input);
+        // String input =sc.next ();
+        // System.out.println(input);
         // String name = sc.nextLine();
         // System.out.println(name);
         // int num = sc.nextInt();
