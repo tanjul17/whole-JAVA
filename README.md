@@ -1,5 +1,4 @@
 # whole-JAVA
-this repository will contains all my JAVA code.
+this repository will contains all my JAVA codes.
 
-these are my all java programs which i wrote my initial coding journey.
 hope this journey will get successful
