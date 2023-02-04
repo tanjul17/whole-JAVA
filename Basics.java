@@ -69,6 +69,7 @@ public class Basics {
         // System.out.println(product);
 
         // Area of Circle
+
         // float r = sc.nextFloat();
         // float area = 3.14f*r*r;
         // System.out.println(area);
@@ -76,6 +77,14 @@ public class Basics {
         // int a =2324243;
         // float b = (float)(a);// TYPE CASTING
         // System.out.println(b);
+
+        // type promotion in java 
+        /*
+         * 1. byte ,short,char ---> int
+         * 2. long float or double -->long
+         * 
+         * this is for lossy conversion.
+         */
 
         // Operators
         // int a =10;
@@ -86,6 +95,8 @@ public class Basics {
 
         // Conditional Statement
 
+        //print the largest of 2
+
         // int a =19;
         // int b =90;
         // if ( a>b)
@@ -93,7 +104,8 @@ public class Basics {
         // else
         // System.out.println(b);
 
-        // Qs.1
+        // Qs.1 no even or odd
+
         // int a =4;
         // if ( a%2==0){
         // System.out.println("Even");
@@ -101,7 +113,7 @@ public class Basics {
         // System.out.println("Odd");
         // }
 
-        // Qs.2
+        // Qs.2 income tax calculator
         // Scanner sc = new Scanner(System.in);
         // int income = sc.nextInt();
         // int tax=0;
@@ -155,6 +167,8 @@ public class Basics {
         // default:
         // System.out.println("Pani");
         // }
+
+        //calculator
 
         // System.out.println(number);
         // Scanner sc = new Scanner (System.in);
